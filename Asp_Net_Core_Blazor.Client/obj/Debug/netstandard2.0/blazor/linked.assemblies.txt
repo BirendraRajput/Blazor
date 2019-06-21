@@ -1,0 +1,15 @@
+C:\MyWorkItems\Asp_Net_Core_Blazor\Asp_Net_Core_Blazor.Client\obj\Debug\netstandard2.0\blazor\linker\Asp_Net_Core_Blazor.Client.dll
+C:\MyWorkItems\Asp_Net_Core_Blazor\Asp_Net_Core_Blazor.Client\obj\Debug\netstandard2.0\blazor\linker\Asp_Net_Core_Blazor.Shared.dll
+C:\MyWorkItems\Asp_Net_Core_Blazor\Asp_Net_Core_Blazor.Client\obj\Debug\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Components.Browser.dll
+C:\MyWorkItems\Asp_Net_Core_Blazor\Asp_Net_Core_Blazor.Client\obj\Debug\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Components.dll
+C:\MyWorkItems\Asp_Net_Core_Blazor\Asp_Net_Core_Blazor.Client\obj\Debug\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Components.TagHelperWorkaround.dll
+C:\MyWorkItems\Asp_Net_Core_Blazor\Asp_Net_Core_Blazor.Client\obj\Debug\netstandard2.0\blazor\linker\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\MyWorkItems\Asp_Net_Core_Blazor\Asp_Net_Core_Blazor.Client\obj\Debug\netstandard2.0\blazor\linker\Microsoft.Extensions.DependencyInjection.dll
+C:\MyWorkItems\Asp_Net_Core_Blazor\Asp_Net_Core_Blazor.Client\obj\Debug\netstandard2.0\blazor\linker\Microsoft.JSInterop.dll
+C:\MyWorkItems\Asp_Net_Core_Blazor\Asp_Net_Core_Blazor.Client\obj\Debug\netstandard2.0\blazor\linker\Mono.WebAssembly.Interop.dll
+C:\MyWorkItems\Asp_Net_Core_Blazor\Asp_Net_Core_Blazor.Client\obj\Debug\netstandard2.0\blazor\linker\mscorlib.dll
+C:\MyWorkItems\Asp_Net_Core_Blazor\Asp_Net_Core_Blazor.Client\obj\Debug\netstandard2.0\blazor\linker\System.Core.dll
+C:\MyWorkItems\Asp_Net_Core_Blazor\Asp_Net_Core_Blazor.Client\obj\Debug\netstandard2.0\blazor\linker\System.dll
+C:\MyWorkItems\Asp_Net_Core_Blazor\Asp_Net_Core_Blazor.Client\obj\Debug\netstandard2.0\blazor\linker\System.Net.Http.dll
+C:\MyWorkItems\Asp_Net_Core_Blazor\Asp_Net_Core_Blazor.Client\obj\Debug\netstandard2.0\blazor\linker\Asp_Net_Core_Blazor.Client.pdb
+C:\MyWorkItems\Asp_Net_Core_Blazor\Asp_Net_Core_Blazor.Client\obj\Debug\netstandard2.0\blazor\linker\Asp_Net_Core_Blazor.Shared.pdb

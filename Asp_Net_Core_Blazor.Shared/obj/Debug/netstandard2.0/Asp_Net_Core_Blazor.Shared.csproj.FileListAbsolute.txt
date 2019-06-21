@@ -1,0 +1,9 @@
+C:\MyWorkItems\Asp_Net_Core_Blazor\Asp_Net_Core_Blazor.Shared\bin\Debug\netstandard2.0\Asp_Net_Core_Blazor.Shared.deps.json
+C:\MyWorkItems\Asp_Net_Core_Blazor\Asp_Net_Core_Blazor.Shared\bin\Debug\netstandard2.0\Asp_Net_Core_Blazor.Shared.dll
+C:\MyWorkItems\Asp_Net_Core_Blazor\Asp_Net_Core_Blazor.Shared\bin\Debug\netstandard2.0\Asp_Net_Core_Blazor.Shared.pdb
+C:\MyWorkItems\Asp_Net_Core_Blazor\Asp_Net_Core_Blazor.Shared\obj\Debug\netstandard2.0\Asp_Net_Core_Blazor.Shared.csproj.CoreCompileInputs.cache
+C:\MyWorkItems\Asp_Net_Core_Blazor\Asp_Net_Core_Blazor.Shared\obj\Debug\netstandard2.0\Asp_Net_Core_Blazor.Shared.AssemblyInfoInputs.cache
+C:\MyWorkItems\Asp_Net_Core_Blazor\Asp_Net_Core_Blazor.Shared\obj\Debug\netstandard2.0\Asp_Net_Core_Blazor.Shared.AssemblyInfo.cs
+C:\MyWorkItems\Asp_Net_Core_Blazor\Asp_Net_Core_Blazor.Shared\obj\Debug\netstandard2.0\Asp_Net_Core_Blazor.Shared.dll
+C:\MyWorkItems\Asp_Net_Core_Blazor\Asp_Net_Core_Blazor.Shared\obj\Debug\netstandard2.0\Asp_Net_Core_Blazor.Shared.pdb
+C:\MyWorkItems\Asp_Net_Core_Blazor\Asp_Net_Core_Blazor.Shared\obj\Debug\netstandard2.0\Asp_Net_Core_Blazor.Shared.csprojAssemblyReference.cache
