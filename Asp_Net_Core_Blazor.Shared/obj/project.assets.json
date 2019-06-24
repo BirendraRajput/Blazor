@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\MyWorkItems\\Asp_Net_Core_Blazor\\Asp_Net_Core_Blazor.Shared\\Asp_Net_Core_Blazor.Shared.csproj",
+      "projectUniqueName": "C:\\MyWorkItems\\GitHub\\Blazor\\Asp_Net_Core_Blazor.Shared\\Asp_Net_Core_Blazor.Shared.csproj",
       "projectName": "Asp_Net_Core_Blazor.Shared",
-      "projectPath": "C:\\MyWorkItems\\Asp_Net_Core_Blazor\\Asp_Net_Core_Blazor.Shared\\Asp_Net_Core_Blazor.Shared.csproj",
+      "projectPath": "C:\\MyWorkItems\\GitHub\\Blazor\\Asp_Net_Core_Blazor.Shared\\Asp_Net_Core_Blazor.Shared.csproj",
       "packagesPath": "C:\\Users\\fr_birendras\\.nuget\\packages\\",
-      "outputPath": "C:\\MyWorkItems\\Asp_Net_Core_Blazor\\Asp_Net_Core_Blazor.Shared\\obj\\",
+      "outputPath": "C:\\MyWorkItems\\GitHub\\Blazor\\Asp_Net_Core_Blazor.Shared\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

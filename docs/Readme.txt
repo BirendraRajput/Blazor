@@ -1,1 +1,0 @@
-This is a Blazor hello World Application.

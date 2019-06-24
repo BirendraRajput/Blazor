@@ -1,0 +1,9 @@
+C:\MyWorkItems\GitHub\Blazor\Asp_Net_Core_Blazor.Shared\bin\Release\netstandard2.0\Asp_Net_Core_Blazor.Shared.deps.json
+C:\MyWorkItems\GitHub\Blazor\Asp_Net_Core_Blazor.Shared\bin\Release\netstandard2.0\Asp_Net_Core_Blazor.Shared.dll
+C:\MyWorkItems\GitHub\Blazor\Asp_Net_Core_Blazor.Shared\bin\Release\netstandard2.0\Asp_Net_Core_Blazor.Shared.pdb
+C:\MyWorkItems\GitHub\Blazor\Asp_Net_Core_Blazor.Shared\obj\Release\netstandard2.0\Asp_Net_Core_Blazor.Shared.csprojAssemblyReference.cache
+C:\MyWorkItems\GitHub\Blazor\Asp_Net_Core_Blazor.Shared\obj\Release\netstandard2.0\Asp_Net_Core_Blazor.Shared.csproj.CoreCompileInputs.cache
+C:\MyWorkItems\GitHub\Blazor\Asp_Net_Core_Blazor.Shared\obj\Release\netstandard2.0\Asp_Net_Core_Blazor.Shared.AssemblyInfoInputs.cache
+C:\MyWorkItems\GitHub\Blazor\Asp_Net_Core_Blazor.Shared\obj\Release\netstandard2.0\Asp_Net_Core_Blazor.Shared.AssemblyInfo.cs
+C:\MyWorkItems\GitHub\Blazor\Asp_Net_Core_Blazor.Shared\obj\Release\netstandard2.0\Asp_Net_Core_Blazor.Shared.dll
+C:\MyWorkItems\GitHub\Blazor\Asp_Net_Core_Blazor.Shared\obj\Release\netstandard2.0\Asp_Net_Core_Blazor.Shared.pdb
